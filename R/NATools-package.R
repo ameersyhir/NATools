@@ -6,7 +6,7 @@
 #' - `detectNA()` : Identify missing values in a dataset.
 #' - `repNAmed()` : Replace missing values with column median.
 #'
-#' @docType _PACKAGE
+#' @docType package
 #' @name NATools
 NULL
 
