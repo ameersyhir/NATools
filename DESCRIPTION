@@ -1,0 +1,12 @@
+Package: NATools
+Type: Package
+Title: Tools for handling missing data
+Version: 0.1.0
+Author: Ameer Syahir
+Maintainer: Ameer Syahir <ameersyahir04@gmail.com>
+Description: A set of funtion for handling missing data, including detecting missing values
+            and replacing missing values with median.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
